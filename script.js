@@ -1,4 +1,4 @@
-let query="AbhishekKumar";
+let query="Abhishek Kumar";
 const qrImg = document.getElementById('qr-image');
 let url='';
 url="https://api.qrserver.com/v1/create-qr-code/?size=160x160&data="+query;
